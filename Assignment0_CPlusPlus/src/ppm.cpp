@@ -4,6 +4,7 @@
 PPM::PPM(std::string fileName){
     // TODO:    Load and parse a ppm to get its pixel
     //          data stored properly.
+    // Test
 }
 
 // Destructor clears any memory that has been allocated
@@ -23,7 +24,7 @@ void PPM::darken(){
     // TODO: Output a 'filtered' PPM image.
 }
 
-// Sets a pixel to a specific R,G,B value 
+// Sets a pixel to a specific R,G,B value
 void PPM::setPixel(int x, int y, int R, int G, int B){
     // TODO: Implement
 }
